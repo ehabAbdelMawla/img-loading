@@ -1,1 +1,1 @@
-# img-loading
+# img-loadings
