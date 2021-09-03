@@ -1,0 +1,26 @@
+ .image-container {
+     overflow: hidden;
+     position: relative;
+     text-align: center;
+     display: inline-flex;
+     justify-content: center;
+     width: 100px;
+     height: 100px;
+ }
+ 
+ .image-container img {
+     min-width: 100%;
+     width: 100%;
+     height: 100%;
+ }
+ 
+ .image-container-overlay {
+     width: 100%;
+     height: 100%;
+     position: absolute;
+     top: 0;
+     left: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
