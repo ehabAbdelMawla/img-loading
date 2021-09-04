@@ -3,8 +3,9 @@ simple React Component To Display Loader untill Image Loaded Scuccessfully,
 And Show Error Image When Target Image Cause Error
 
 # Screenshots
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/51888513/132089942-f2138b6b-dc06-43a4-b053-1e70b94ca977.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/51888513/132031682-8d447e53-3b0c-465a-aab1-cdd2838e6d1b.gif)
+
 
 # Installation
 <h3>npm</h3>
