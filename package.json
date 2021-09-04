@@ -1,6 +1,6 @@
 {
     "name": "img-loading",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple Image Loading Component",
     "main": "./build/index.js",
     "devDependencies": {
