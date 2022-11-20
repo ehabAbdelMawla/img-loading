@@ -5,7 +5,7 @@
   </a>
   <h2 align="center">Img Loading</h2>
   <p align="center">
-  React Package Which Display Loader untill Image Loaded Scuccessfully, And Show Error Image When Target Image Cause Error
+  React Package Which Display Loader until Image Loaded Successfully, And Show Error Image When Target Image Cause Error
   </p>
 </div>
 
